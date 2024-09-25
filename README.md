@@ -10,6 +10,10 @@
 - [Requirements](#requirements)
 
 
+
+https://github.com/user-attachments/assets/55a27dbc-1b49-4562-930b-540120ce1767
+
+
 ## Introduction
 The Ship AR Experience is an innovative augmented reality application that allows users to place a highly detailed ship on flat surfaces using markerless tracking. The app offers an immersive experience where users can interact with various parts of the ship. By clicking on different anchors, users can virtually enter the ship and feel as if they are standing on it. The app also includes an interactive compass that reveals its internal components for inspection. Both the ship and the compass can be scaled, rotated, and placed on different surfaces, enhancing the flexibility and engagement of the experience.
 
@@ -39,8 +43,7 @@ The Ship AR Experience is an innovative augmented reality application that allow
    - Use scale and rotate sliders to adjust the size and orientation of the ship and compass as desired.
    - Move them to different surfaces by dragging them within the AR environment.
 
-## Video Demo
-Watch the Ship AR Experience in action: [Link to Video Demo](#)
+
 
 ## Benefits
 - **Immersive Learning:** Experience standing inside a ship and learn about its components in an engaging and realistic way.
